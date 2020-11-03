@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# I'm a student at Far Eastern Federal University of Russia going for a bachelors degree in computer science!
+I'm a student at Far Eastern Federal University of Russia going for a bachelors degree in computer science!
 
-# Currently pursuing algorithms and data structures to get ready for any interview ever possible.
+Currently pursuing algorithms and data structures to get ready for any interview ever possible.
 
 <!--
 **RomanEsin/RomanEsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
