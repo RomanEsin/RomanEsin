@@ -7,6 +7,12 @@ Currently pursuing algorithms and data structures to get ready for any interview
 ### More info
 If you want to look at my projects, just go to any repo, most of them contain images of the working product, but some are still in the works...
 
+### Currently working on:
+1. https://github.com/asap-it
+2. FarPost iOS App
+3. Some personal projects
+4. And of course course projects from FEFU
+
 <!--
 **RomanEsin/RomanEsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
