@@ -4,6 +4,9 @@ I'm a student at Far Eastern Federal University of Russia going for a bachelors 
 
 Currently pursuing algorithms and data structures to get ready for any interview ever possible.
 
+### More info
+If you want to look at my projects, just go to any repo, most of them contain images of the working product, but some are still in the works...
+
 <!--
 **RomanEsin/RomanEsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
