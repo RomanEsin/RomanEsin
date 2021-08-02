@@ -11,7 +11,7 @@ If you want to look at my projects, just go to any repo, most of them contain im
 - https://github.com/asap-it
 - FarPost iOS App
 - Some personal projects
-- And of course course projects from FEFU
+- And of course student projects from FEFU
 
 <!--
 **RomanEsin/RomanEsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
