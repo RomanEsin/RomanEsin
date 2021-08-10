@@ -13,6 +13,8 @@ If you want to look at my projects, just go to any repo, most of them contain im
 - Some personal projects
 - And of course student projects from FEFU
 
+[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanesin)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **RomanEsin/RomanEsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
