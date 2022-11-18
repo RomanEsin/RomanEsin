@@ -7,12 +7,6 @@ Currently pursuing algorithms and data structures to get ready for any interview
 ### More info
 If you want to look at my projects, just go to any repo, most of them contain images of the working product, but some are still in the works...
 
-### Currently working on:
-- https://github.com/asap-it
-- FarPost iOS App
-- Some personal projects
-- And of course student projects from FEFU
-
 [![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanesin&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
